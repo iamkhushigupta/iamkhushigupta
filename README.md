@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamkhushigupta
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in contributing in startups
+- 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 ping me on khushigupta02530@gmail.com
+- 📫 feel free to ping me on khushigupta02530@gmail.com
 
 <!---
 iamkhushigupta/iamkhushigupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
