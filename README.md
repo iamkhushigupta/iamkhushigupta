@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iamkhushigupta
-- 👀 I’m interested in contributing in startups
-- 🌱 I’m currently learning web3
+- 👀 I’m interested in contributing to startups
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 feel free to ping me on khushigupta02530@gmail.com
 
